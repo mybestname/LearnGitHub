@@ -1,4 +1,4 @@
-# LearnGitHub
+# Learn GitHub
 Learn by practicing
 
 ## 写在前面
