@@ -1,5 +1,6 @@
 # Learn GitHub
-Learn by practicing
+
+Effective Learning through Practice
 
 ## 写在前面
 
