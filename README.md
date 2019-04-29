@@ -1,4 +1,4 @@
-# LearnGitHub
+# Learn GitHub
 Learn by practicing
 
 ## 写在前面
@@ -227,5 +227,3 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 这个流程主要是为了同步源码库更新，比如长时间没更新代码，就需要在修改本地代码前先同步源码。
 
-
-read-only
